@@ -84,6 +84,7 @@ A university meal management web application.
 - Student meal ON/OFF system
 - Secure authentication
 - Admin dashboard
+- Efficient system
 
 **Tech Stack**
 
