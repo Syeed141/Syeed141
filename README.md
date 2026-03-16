@@ -52,7 +52,7 @@
 
 - Worked on **JavaScript client-side web applications**
 - Collaborated using **Git version control**
-- Participated in agile development workflow
+- Participated in the agile development workflow
 
 ---
 
