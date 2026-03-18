@@ -1,3 +1,9 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Syeed141&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
@@ -7,13 +13,11 @@
   </a>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Syeed141&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
+
 
 ---
 
-<h1 align="center">A Passionate Frontend Developer from Bangladesh 🇧🇩</h1>
+<h1 align="center">Software Developer who turns ideas into practical solutions</h1>
 
 <br>
 
@@ -85,13 +89,11 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=2000&center=true&vCenter=true&width=950&lines=Thank+you+for+visiting!"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1500&center=true&vCenter=true&width=950&lines=Thank+you+for+visiting!;Good+day+to+you!"
       alt="Typing SVG"
     />
   </a>
 </p>
-
-
 
 
 
