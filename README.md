@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Md Shahriar Syeed</h1>
-<h3 align="center">Competitive Programmer | CSE Student | Aspiring Full-Stack Developer</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2500&pause=1500&center=true&vCenter=true&width=950&lines=Hi+there!;I+am+Md+Shahriar+Syeed.&repeat=false"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Syeed141&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
