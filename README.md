@@ -44,7 +44,7 @@
 <table align="center">
   <tr>
     <td><b>Frontend</b></td>
-    <td>React, Next.js, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap</td>
+    <td>React, Next.js, JavaScript, HTML5, CSS3, Tailwind CSS,DaisyUI,ShadCN, Bootstrap</td>
   </tr>
   <tr>
     <td><b>Backend</b></td>
