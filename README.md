@@ -1,8 +1,10 @@
+
+
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Syeed141&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://syeed-m8ckdw5s1-syeed141s-projects.vercel.app/">
+    <img src="https://img.shields.io/badge/My%20Portfolio-22c55e?style=for-the-badge" alt="My Portfolio" />
+  </a>
 </p>
-
-
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -12,8 +14,6 @@
     />
   </a>
 </p>
-
-
 
 ---
 
@@ -27,6 +27,8 @@
   🌱 Learning <b>Node.js, Express, MongoDB</b>
   <br><br>
   💬 Ask me about <b>React, Next.js, GSAP, Framer Motion</b>
+  <br><br>
+  🌐 Portfolio: <a href="https://syeed-m8ckdw5s1-syeed141s-projects.vercel.app/"><b>Visit My Portfolio</b></a>
   <br><br>
   📫 Reach me at <b>shahariarsyeed2026@gmail.com</b>
   <br><br>
@@ -44,7 +46,7 @@
 <table align="center">
   <tr>
     <td><b>Frontend</b></td>
-    <td>React, Next.js, JavaScript, HTML5, CSS3, Tailwind CSS,DaisyUI,ShadCN, Bootstrap</td>
+    <td>React, Next.js, JavaScript, HTML5, CSS3, Tailwind CSS, DaisyUI, ShadCN, Bootstrap</td>
   </tr>
   <tr>
     <td><b>Backend</b></td>
@@ -84,8 +86,6 @@
 ⭐ <b>Always learning, building, and improving as a developer.</b>
 </p>
 
-
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
@@ -94,14 +94,3 @@
     />
   </a>
 </p>
-
-
-
-
-
-
-
-
-
-
-
