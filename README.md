@@ -28,8 +28,6 @@
   <br><br>
   💬 Ask me about <b>React, Next.js, GSAP, Framer Motion</b>
   <br><br>
-  🌐 Portfolio: <a href="https://syeed-m8ckdw5s1-syeed141s-projects.vercel.app/"><b>Visit My Portfolio</b></a>
-  <br><br>
   📫 Reach me at <b>shahariarsyeed2026@gmail.com</b>
   <br><br>
   ⚡ Fun fact: <b>Chrome DevTools is basically my second brain</b>
