@@ -17,7 +17,7 @@
 
 ---
 
-<h1 align="center">Software Developer who turns ideas into practical solutions</h1>
+<h1 align="center">I am a Software Developer who turns ideas into practical solutions</h1>
 
 <br>
 
