@@ -22,11 +22,11 @@
 <br>
 
 <p align="center">
-  🔭 Currently building <b>Job Tracker Application</b>
+  🔭 Currently building <b>Finance Tracter Application</b>
   <br><br>
   🌱 Learning <b>Node.js, Express, MongoDB</b>
   <br><br>
-  💬 Ask me about <b>React, Next.js, GSAP, Framer Motion</b>
+  💬 Ask me about <b>React, Next.js, Framer Motion</b>
   <br><br>
   📫 Reach me at <b>shahariarsyeed2026@gmail.com</b>
   <br><br>
