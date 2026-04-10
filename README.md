@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-  🔭 Currently building <b>Finance Tracter Application</b>
+  🔭 Currently building <b>a special MCP server</b>
   <br><br>
   🌱 Learning <b>Node.js, Express, MongoDB</b>
   <br><br>
