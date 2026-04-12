@@ -60,7 +60,7 @@
   </tr>
   <tr>
     <td><b>Tools</b></td>
-    <td>Git, GitHub, Linux, Figma, Firebase, Vercel, Netlify</td>
+    <td>Git, GitHub, Linux, Figma, Firebase, Vercel, Netlify, Surge</td>
   </tr>
 </table>
 
